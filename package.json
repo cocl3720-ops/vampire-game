@@ -1,0 +1,10 @@
+{
+  "name": "vampire-folklore-investigator",
+  "version": "1.0.0",
+  "description": "Interactive vampire folklore investigation game",
+  "main": "index.js",
+  "dependencies": {
+    "chalk": "^4.1.2",
+    "inquirer": "^8.2.6"
+  }
+}
